@@ -1,3 +1,4 @@
 # Web-Dev
 
 Here i put all the files where i practice everyday so you can through it download it and start practicing these are very easy to go let's become web developer together
+Web development refers to the process of creating websites and web applications. It involves designing, building, and maintaining websites using various programming languages, frameworks, and tools. Web developers typically work on both the front-end and back-end aspects of a website, handling tasks such as writing code, designing user interfaces, integrating databases, implementing functionality, and ensuring the website's responsiveness and performance. Web development encompasses a wide range of skills and technologies, including HTML, CSS, JavaScript, server-side programming languages (such as Python, Ruby, or PHP), databases, and web frameworks (like React, Angular, or Django).
