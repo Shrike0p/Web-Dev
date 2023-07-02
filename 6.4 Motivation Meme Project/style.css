@@ -1,0 +1,27 @@
+h1{
+    text-transform: capitalize;
+    font-family: 'Caveat', cursive;
+    color: white;
+    text-align: center;
+    
+}
+p{
+    color: white;
+}
+html{
+    font-family: 'Caveat', cursive;
+    background-color: black;
+}
+#image{
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+h1{
+    align-items: center;
+}
+
