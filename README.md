@@ -65,8 +65,6 @@ API routes: Next.js allows developers to create API routes alongside their pages
 
 CSS and styling: Next.js has built-in support for CSS modules, allowing for scoped and modular CSS styles. It also provides support for CSS-in-JS libraries like styled-components and CSS preprocessors like Sass or Less.
 
-Developer experience: Next.js offers a great development experience with features such as hot module reloading (HMR) for instant code updates, automatic code splitting for optimized performance, and built-in support for TypeScript.
-
+Next.js offers a great development experience with features such as hot module reloading (HMR) for instant code updates, automatic code splitting for optimized performance, and built-in support for TypeScript.
 Deployment flexibility: Next.js applications can be easily deployed to various hosting options, including traditional servers, cloud platforms like Vercel, and serverless environments. Vercel, the company behind Next.js, provides a seamless deployment experience and offers features like serverless functions and edge caching.
-
 Next.js has gained popularity due to its developer-friendly features, excellent performance optimizations, and its ability to handle complex applications with ease. It is widely used for building both static websites and dynamic web applications, providing a solid foundation for React-based projects.
